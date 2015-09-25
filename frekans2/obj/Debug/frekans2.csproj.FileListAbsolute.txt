@@ -1,0 +1,8 @@
+F:\visualstudio\frekans2\frekans2\bin\Debug\frekans2.exe.config
+F:\visualstudio\frekans2\frekans2\obj\Debug\frekans2.csprojResolveAssemblyReference.cache
+F:\visualstudio\frekans2\frekans2\bin\Debug\Text\ciftler.txt
+F:\visualstudio\frekans2\frekans2\bin\Debug\Text\harfler.txt
+F:\visualstudio\frekans2\frekans2\bin\Debug\frekans2.exe
+F:\visualstudio\frekans2\frekans2\bin\Debug\frekans2.pdb
+F:\visualstudio\frekans2\frekans2\obj\Debug\frekans2.exe
+F:\visualstudio\frekans2\frekans2\obj\Debug\frekans2.pdb
